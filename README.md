@@ -6,8 +6,7 @@ Este projeto consiste em um sistema simples de gerenciamento de produtos utiliza
 
 ## Requisitos
 - Java 8 ou superior
-- Um arquivo `produtos.txt` para armazenamento dos produtos
-
+  
 ## Como Usar
 
 ### Compilar o código
